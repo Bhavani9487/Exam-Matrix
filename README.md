@@ -15,7 +15,7 @@ An intelligent exam proctoring system with dual-camera monitoring, real-time AI 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Akshaya-somu/Exam-Matrix.git
+git clone https://github.com/Bhavani9487/Exam-Matrix.git
 cd Exam-Matrix
 ```
 
